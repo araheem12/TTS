@@ -4,3 +4,5 @@ gtts
 torch
 torchaudio
 numpy
+pydub
+ffmpeg
